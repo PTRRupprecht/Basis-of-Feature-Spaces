@@ -1,4 +1,4 @@
-# Basis-of-Feature-Spaces
+# Basis of Feature Spaces
 
 This notebook is connected to a blog post that [explores the activation patterns](https://ptrrupprecht.wordpress.com/2017/11/14/the-basis-of-feature-spaces-in-deep-networks/) of neurons in a deep network (Inception, trained with ImageNet). It is based on Python/Tensorflow code available here.
 
